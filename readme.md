@@ -1,5 +1,6 @@
- # Braille Trainer (old repository)
- # ALL BRAILLE REPOSITORIES MOVED HERE: https://github.com/braille-systems/
+ # This repository is ARCHIVED and moved [HERE](https://github.com/braille-systems/braille-trainer/)
+ # ALL BRAILLE-RELATED REPOSITORIES MOVED HERE: https://github.com/braille-systems/
+ ## Braille Trainer (old repository)
 
 Braille Trainer: a  device and a set of programs in Python made for visually impared. The main purpose is learning Braille alphabet.<br>
 **ENG:**<br>
